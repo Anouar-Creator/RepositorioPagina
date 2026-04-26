@@ -1,4 +1,10 @@
 <?php
-echo "<h1>Mi página desplegada automáticamente :) </h1>";
-echo "<p>De Anouar y Nayarah</p>";
+get_header();
+?>
+
+<h1>Bienvenido a nuestra pagina</h1>
+<p>Esta es la pagina de Anouar y Nayarah </p>
+
+<?php
+get_footer();
 ?>
